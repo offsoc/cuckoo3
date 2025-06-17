@@ -37,11 +37,11 @@ setuptools.setup(
     install_requires=[
         "Cuckoo-common>=0.1.0",
         "sflock>=1.0, <1.1",
-        "protobuf>=3.20.1, <4.0.0",
+        "protobuf>=3.20.1, <7.0.0",
         "httpreplay>=1.0, <1.1",
         "pefile>=2022.5.30, <2024.0.0",
         "oletools>=0.60.1, <0.61",
-        "cryptography>=41.0.4, <42.0.0",
+        "cryptography>=41.0.4, <46.0.0",
         "hyperscan>=0.2.0, <0.7",
         "yara-python>=4.2.0, <4.4",
         "roach>=1.0, <1.1",

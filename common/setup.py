@@ -45,7 +45,7 @@ setuptools.setup(
         "elasticsearch-dsl>=7.4.0, <7.5",
         "vt-py>=0.6, <0.7",
         "pymisp>=2.4.159, <2.5",
-        "aiohttp>=3.8.1, <3.9",
+        "aiohttp>=3.8.1, <3.13",
         "aiohttp-sse-client>=0.2.1, <0.3",
         "psutil>=5.9.0, <5.10",
         "alembic[tz]"
